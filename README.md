@@ -1,7 +1,7 @@
 # FedMem-VOI: synthetic reference primitives
 
-Designated repository: [FedMem-VOI](https://github.com/kx-36/FedMem-VOI), for the
-scoped reference example. This local candidate does not attest upload completion.
+This repository provides a small synthetic reference example for
+[FedMem-VOI](https://github.com/kx-36/FedMem-VOI).
 
 This is a **small prospective-method example**, not the empirical FedMem-VOI
 learner, an ALFWorld adapter, or a benchmark reproduction. No benchmark
@@ -85,7 +85,7 @@ bounds retain all explicit assigned tasks with declared client weights and are
 to direct evaluation.
 
 See `SCOPE.md` and `PROVENANCE.md` before interpreting or redistributing this
-candidate. New original example code is MIT licensed; excluded legacy material is not relicensed. Private verification
+candidate. New original example code is Apache-2.0 licensed; excluded legacy material is not relicensed. Private verification
 records and the release archive are local-only and excluded from the archive.
 
 For a real federated implementation, validate each client's assigned registry
